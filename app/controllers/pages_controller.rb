@@ -1,13 +1,9 @@
 class PagesController < ApplicationController
-  def home
-  end
+  def home; end
 
-  def heritage
-  end
+  def heritage; end
 
-  def cities
-  end
+  def cities; end
 
-  def legal
-  end
+  def legal; end
 end
