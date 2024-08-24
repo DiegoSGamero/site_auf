@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "bootstrap", "~> 5.2"
+gem "font-awesome-sass", "~> 6.1"
+gem "autoprefixer-rails"
